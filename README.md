@@ -11,7 +11,7 @@ The application is a system for managing the workflow of a cinema, or a system b
 - stored passwords are hashed using the SHA-256 algorithm.
 
 
-The software is developed in C++ as a console application.
+The software is developed in C++ as a console application. The data is stored in various files.
 
 The principles of object-oriented programming have been implemented in this application. Implemented 10 classes, including abstract. They were used to transfer parameters by reference and meaning. Built-in and custom namespaces were used, as well as template classes and methods, static fields and methods, overloading methods and operators, redefining methods etc.
 
