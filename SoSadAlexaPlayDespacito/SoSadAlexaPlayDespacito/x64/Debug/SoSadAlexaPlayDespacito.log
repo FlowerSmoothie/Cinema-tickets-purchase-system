@@ -1,0 +1,54 @@
+﻿  Decor.cpp
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Decor.cpp(199,9): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Decor.cpp(307,70): warning C4566: character represented by universal-character-name '\u25B2' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Decor.cpp(377,35): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Decor.cpp(377,35): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Decor.cpp(377,35): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Decor.cpp(378,35): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Decor.cpp(378,35): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Decor.cpp(378,35): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Decor.cpp(379,35): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Decor.cpp(379,35): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Decor.cpp(379,35): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+  Drawings.cpp
+  ObjectOperations.cpp
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(410,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ObjectOperations.cpp')
+  
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(464,4): warning C4551: function call missing argument list
+  (compiling source file 'ObjectOperations.cpp')
+  
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(601,28): warning C4566: character represented by universal-character-name '\u25B2' cannot be represented in the current code page (1252)
+  (compiling source file 'ObjectOperations.cpp')
+  
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1079,25): warning C4267: '=': conversion from 'size_t' to 'T', possible loss of data
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1079,25): warning C4267:         with
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1079,25): warning C4267:         [
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1079,25): warning C4267:             T=int
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1079,25): warning C4267:         ]
+  (compiling source file 'ObjectOperations.cpp')
+  
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1108,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ObjectOperations.cpp')
+  
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1116,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ObjectOperations.cpp')
+  
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1296,28): warning C4566: character represented by universal-character-name '\u25BC' cannot be represented in the current code page (1252)
+  (compiling source file 'ObjectOperations.cpp')
+  
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1399,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ObjectOperations.cpp')
+  
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1401,115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ObjectOperations.cpp')
+  
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\ObjectOperations.cpp(191,44): warning C4566: character represented by universal-character-name '\u2605' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\ObjectOperations.cpp(207,9): warning C4566: character represented by universal-character-name '\u2605' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\ObjectOperations.cpp(209,9): warning C4566: character represented by universal-character-name '\u2605' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\ObjectOperations.cpp(211,9): warning C4566: character represented by universal-character-name '\u2605' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\ObjectOperations.cpp(213,9): warning C4566: character represented by universal-character-name '\u2605' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\ObjectOperations.cpp(215,9): warning C4566: character represented by universal-character-name '\u2605' cannot be represented in the current code page (1252)
+D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\ObjectOperations.cpp(217,9): warning C4566: character represented by universal-character-name '\u2605' cannot be represented in the current code page (1252)
+  Generating Code...
+  SoSadAlexaPlayDespacito.vcxproj -> D:\Personal\For Spain\For resume\SoSadAlexaPlayDespacito\x64\Debug\Course.exe

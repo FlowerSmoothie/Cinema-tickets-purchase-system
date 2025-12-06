@@ -1,0 +1,60 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SoSadAlexaPlayDespacito.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Functional.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(464,4): warning C4551: function call missing argument list
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(601,28): warning C4566: character represented by universal-character-name '\u25B2' cannot be represented in the current code page (1251)
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(631,11): warning C4018: '>': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1296,28): warning C4566: character represented by universal-character-name '\u25BC' cannot be represented in the current code page (1251)
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1338,15): warning C4018: '<=': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.h(101,23): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(319,20): warning C4018: '>': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(686,16): warning C4018: '>': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(819,16): warning C4018: '>': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(874,16): warning C4018: '>': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(939,23): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(981,35): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(994,35): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1236,15): warning C4018: '>': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1302,16): warning C4018: '>': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1447,35): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1460,35): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1471,35): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1490,35): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1545,35): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1557,35): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1567,35): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1574,35): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1512,9): warning C4101: 'number1': unreferenced local variable
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1512,18): warning C4101: 'number2': unreferenced local variable
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1605,23): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1630,23): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1653,23): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1676,23): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1828,23): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1852,16): warning C4018: '<=': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1908,16): warning C4018: '<=': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1924,16): warning C4018: '<=': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(1941,16): warning C4018: '>': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2035,16): warning C4018: '>': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2171,20): warning C4018: '>': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2241,20): warning C4018: '>': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2519,23): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2565,9): warning C4101: 'choice': unreferenced local variable
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2669,24): warning C4018: '<=': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2691,25): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2819,23): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2854,23): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2851,12): warning C4101: 'temp': unreferenced local variable
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2870,23): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2867,12): warning C4101: 'temp': unreferenced local variable
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(69,20): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(611): message : see reference to function template instantiation 'std::vector<Hall,std::allocator<Hall>> getVectorOfObjects<Hall>(std::vector<int,std::allocator<int>>,std::string,T)' being compiled
+          with
+          [
+              T=Hall
+          ]
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(88,20): warning C4018: '<': signed/unsigned mismatch
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Functional.cpp(2838): message : see reference to function template instantiation 'void writeVectorOfObjectsToFile<Report>(std::string,std::vector<Report,std::allocator<Report>>)' being compiled
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(402): warning C4715: 'Hall::getCoordinatesOfPlace': not all control paths return a value
+D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\SoSadAlexaPlayDespacito\Classes.h(1080): warning C4715: 'Order::setIdOfLastObjectPlusOne': not all control paths return a value
+  SoSadAlexaPlayDespacito.vcxproj -> D:\Boogor\ООПиП\SoSadAlexaPlayDespacito\Debug\Course.exe
