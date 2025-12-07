@@ -4,7 +4,7 @@ The application is a system for managing the workflow of a cinema, or a system b
 - management of movie billboard, through which it is possible to purchase tickets;
   - purchasing tickets envolves generation of a receipt in the specific folder;
 - storage of information about cinemas, movies, movie shows as well as tickets for them;
-  - _user_ with normal role can view the billboard and buy tickets for interesting sessions;
+  - _user_ with normal role can view the billboard and buy tickets for interesting showings;
   - _content manager_ could do everything an usual user could, as well as managing data about movies stored in the database;
   - _showing manger_ could do everything an usual user could, as well as managing data about movie showings in the database and tickets for them;
   - _administrator_ could do everything listed above, as well as managing list of users (confirming users, changing their roles, blocking and unblocking), the basic administrator login and password is admin - admin;
