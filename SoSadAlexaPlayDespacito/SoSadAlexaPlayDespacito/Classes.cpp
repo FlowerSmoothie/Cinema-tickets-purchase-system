@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <string>
 #include <vector>
 
@@ -1005,7 +1005,7 @@ ostream& operator << (std::ostream& os, const User*& c)
 		cout << "Showing manager";
 		break;
 	case 4:
-		cout << "Content maanger";
+		cout << "Content manager";
 		break;
 	default:
 		cout << "NULL";
