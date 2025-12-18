@@ -1,0 +1,11 @@
+~~~~Receipt. PAID~~~~~
+----------------------------------------
+Cinema: Asunaro
+Movie: Shrek
+Date: 26.12.2022
+Time: 15:00
+Hall: 3; Row: 7, place: 4
+
+-----------------
+Price: 10 eur.
+Thank you for purchase. Enjoy! :)
