@@ -804,7 +804,7 @@ Cinema viewHalls(Cinema cinema)
         id = enterDigit();
         if (id > halls.size())
         {
-            cout << "Íåâåðíûé ââîä!\n";
+            cout << "ÃÃ¥Ã¢Ã¥Ã°Ã­Ã»Ã© Ã¢Ã¢Ã®Ã¤!\n";
             system("pause");
             continue;
         }
@@ -2746,7 +2746,7 @@ void createACheck(Order order, string name)
     int size;
     double sum;
     vector<Ticket> tickets;
-    fout.open("Checks\\Checks" + name + ".txt", ios::app);
+    fout.open("Checks\\Checks_" + name + ".txt", ios::app);
     fout << "~~~~Receipt. PAID~~~~~\n";
     fout << "----------------------------------------";
     tickets = order.getTickets();
